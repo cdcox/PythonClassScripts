@@ -31,7 +31,7 @@ listname.append(Header) and ListName.append(DataOut) after you define both,
 the header can be found as the first row of the DataIn in sheet.
 
 2. Try turning off my itertools item and get the code to print results in the 
-opposite way it does.
+opposite way it currently does.
 
 
 EXTREMELY COMPLEX ASSIGNMENTS:
