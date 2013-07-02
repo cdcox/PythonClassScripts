@@ -69,7 +69,7 @@ print C
 
 
 ## Run it now
-""" Strings have one big hangup you might run into when coding.
+r""" Strings have one big hangup you might run into when coding.
 certain characters \x for instance, have a specific meanign to the 
 computer because of this, it will eat/misread these characters, 
 below declare BadVar as "this \x will cause an error"
@@ -78,7 +78,7 @@ print BadVar, you should get a red error"""
 
 
 ## Run it now
-""" Fixing this is easy. Go back up to line 69 (where you declared 
+r""" Fixing this is easy. Go back up to line 69 (where you declared 
 BadVar)
 and put an r before the "" so it should now read BadVar=r"this \x will cause an error"
 Run it again.
